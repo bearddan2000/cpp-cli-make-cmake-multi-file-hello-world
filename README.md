@@ -1,4 +1,4 @@
-# cpp-cli-make-cmake-multi-file-hello-world
+# cpp-cli-make-qmake-multi-file-hello-world
 
 ## Description
 This is a POC project to demonstrate 
